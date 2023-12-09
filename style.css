@@ -113,8 +113,9 @@ body {
     }
 
     .btn {
+      font-size: 0.8em;
       margin: 5%; 
-      height: 10%;
+      height: 40%;
       width: 50%;
     }
   }
