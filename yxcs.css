@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Mukta:wght@400;500&family=Poppins:wght@600&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
 
 body {
     color: rgb(255, 255, 255);
@@ -36,9 +37,10 @@ body {
     top: 100px;
     left: 200px;
     width: 75%;
-    height: 75%;
+    height: 235%;
     background-color: rgba(33, 29, 29, 0.9); 
     z-index: 1;
+
   }
 
   #overlay-text {
@@ -105,6 +107,22 @@ body {
     justify-content: flex-end;
 }
 
+h {
+  margin-left: 20px;
+  font-family: 'Lato', sans-serif;
+  
+}
+
+p {
+  font-size: large;
+  margin-left: 10px;
+  font-family: 'Lato', sans-serif;
+  ;
+}
+
+dl {
+  margin-left: 10px;
+}
 
 @media (max-width: 600px) {
   #overlay {
