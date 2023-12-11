@@ -37,7 +37,7 @@ body {
     top: 100px;
     left: 200px;
     width: 75%;
-    height: 235%;
+    height: 175%;
     background-color: rgba(33, 29, 29, 0.9); 
     z-index: 1;
 
@@ -130,7 +130,7 @@ dl {
       left: 10px;
       right: 10px;
       width: 75%;
-      height: 475%;
+      height: 415%;
       width: calc(100% - 20px);
   }
 }
